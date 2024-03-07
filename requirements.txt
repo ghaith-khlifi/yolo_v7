@@ -37,3 +37,4 @@ thop  # FLOPs computation
 # albumentations>=1.0.3
 # pycocotools>=2.0  # COCO mAP
 # roboflow
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
